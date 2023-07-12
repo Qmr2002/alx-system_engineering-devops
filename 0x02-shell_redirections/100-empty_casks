@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 find . -empty | rev | cut -d '/' -f 1 | rev
-=======
-find . -empty -printf '%P\n'
->>>>>>> 341a666c2fd11e9fa230ff99c058ba01a2e90de8
